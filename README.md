@@ -3,6 +3,216 @@
 
 # Abhishek Kumar
 
+# Hi 👋, I'm Abhishek Kumar
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+Developer;AI+Enthusiast;React+%7C+Next.js+Developer;FastAPI+Developer;DevOps+Learner;Always+Learning+New+Technologies" />
+
+###  Full Stack Developer |  Python Developer |  AI Enthusiast |  DevOps Learner
+
+<img src="https://komarev.com/ghpvc/?username=abhishekkumar966&style=for-the-badge&color=blue" alt="Profile Views"/>
+
+</div>
+
+---
+
+#  About Me
+
+-  Passionate Full Stack Developer with expertise in modern web technologies
+-  Currently learning **AI Engineering, LLMs, Cloud & DevOps**
+-  Building AI-powered applications using **FastAPI, Whisper, LangChain & ChromaDB**
+-  Interested in **Backend Development, System Design & Cloud Architecture**
+-  Constantly learning new technologies and building real-world projects
+-  Goal: Become a Professional AI-Powered Full Stack Engineer
+
+---
+
+#  Tech Stack
+
+| Category | Technologies |
+|:---------|:-------------|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| **AI / ML** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge) ![Whisper](https://img.shields.io/badge/Whisper-000000?style=for-the-badge) ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A29E4?style=for-the-badge) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) |
+
+---
+
+#  Featured Projects
+
+##  VideoPilot AI
+
+**Tech Stack:** React • FastAPI • Python • Whisper AI • LangChain • ChromaDB • Docker • AWS
+
+### Features
+
+-  AI Speech-to-Text
+-  Chat with Video (RAG)
+-  AI Summaries
+-  Action Item Extraction
+-  Key Decisions
+-  English & Hinglish Support
+
+🔗 Repository: https://github.com/abhishekkumar966/VideoPilot-AI
+
+---
+
+##  Pharmacy Management System
+
+**Tech Stack:** React • Node.js • Express.js • MongoDB • Redux Toolkit
+
+### Features
+
+-  Inventory Management
+-  Billing System
+-  Purchase & Sales
+-  Returns & Refunds
+-  Dashboard & Analytics
+-  Batch & Expiry Tracking
+
+🔗 Repository: https://github.com/abhishekkumar966/pharmacy-management-system
+
+---
+
+##  Restaurant Ordering Platform
+
+**Tech Stack:** React • TypeScript • Tailwind CSS
+
+### Features
+
+-  Online Food Ordering
+-  Location Selection
+-  Table Reservation
+-  Responsive Design
+
+🔗 Repository: https://github.com/abhishekkumar966/restaurant-platform
+
+---
+
+##  Online Car Rental System
+
+**Tech Stack:** Node.js • Express.js • MySQL
+
+### Features
+
+-  Vehicle Booking
+-  Customer Dashboard
+-  Admin Dashboard
+-  Booking Management
+
+🔗 Repository: https://github.com/abhishekkumar966/car-rental-system
+
+---
+
+##  SmartCare Hospital Portal
+
+**Tech Stack:** React • Tailwind CSS • Node.js • MongoDB
+
+### Features
+
+-  Doctor Management
+-  Appointment Booking
+-  Patient Records
+-  Admin Dashboard
+
+🔗 Repository: https://github.com/abhishekkumar966/smartcare
+
+---
+
+##  TikTok Clone
+
+**Tech Stack:** React • Node.js • MongoDB • Socket.IO
+
+### Features
+
+-  Video Upload
+-  Likes & Comments
+-  Follow System
+-  Real-time Notifications
+
+🔗 Repository: https://github.com/abhishekkumar966/tiktok-clone
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekkumar966&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar966&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar966&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+#  GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar966&theme=algolia&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+#  Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar966&theme=tokyo-night"/>
+
+</div>
+
+---
+
+#  Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/abhishek-kumar-696b04312">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abhishekkumar966">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+##  Quote
+
+> **"First, solve the problem. Then, write the code." – John Johnson**
+
+---
+
+ **If you like my work, consider giving a star to my repositories!**
+
+**Thanks for visiting my profile! 🚀**
+
+</div>
+```
+
 ### Full Stack Developer | Python Developer | AI Engineering Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Developing+AI-Powered+Solutions;React+%7C+Next.js+%7C+Python+%7C+FastAPI;Exploring+LLMs+%26+Cloud+Engineering" alt="Developer introduction" />
